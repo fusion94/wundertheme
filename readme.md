@@ -1,4 +1,6 @@
-# Wundertheme Octopress theme
+# This theme is under development and SHOULD NOT BE USED yet.
+
+## Wundertheme Octopress theme
 
 This is an Octopress theme based off the wundertheme on Tumblr.
 
