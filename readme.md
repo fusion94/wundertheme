@@ -1,4 +1,5 @@
-# This theme is under development and SHOULD NOT BE USED yet.
+
+# Theme under development -- DO NOT USE
 
 ## Wundertheme Octopress theme
 
