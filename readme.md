@@ -25,9 +25,11 @@ This theme uses the League Gothic font (https://github.com/theleagueof/league-go
 
 (The MIT License)
 
-Copyright © 2013 Tony Guntharp
-Copyright © 2012 Alessandro Melandri
-Copyright © 2009-2011 Brandon Mathis
+* Copyright © 2013 Tony Guntharp
+
+* Copyright © 2012 Alessandro Melandri
+
+* Copyright © 2009-2011 Brandon Mathis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
