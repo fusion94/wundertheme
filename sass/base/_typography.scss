@@ -1,8 +1,6 @@
 
-@font-face {
-  font-family: "Yanone Kaffeesatz";
-  src: url('/font/YanoneKaffeesatz-Regular.ttf');
-}
+$fontAwesomePath: "fontawesome-webfont"
+@import font-awesome
 
 $blockquote: $type-border !default;
 $sans: "Lato", sans-serif;
